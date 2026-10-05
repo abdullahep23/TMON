@@ -57,3 +57,15 @@ Please include:
 * Your name or preferred contributor name
 * Your e-mail
 
+
+### Submission Checklist
+
+* [ ] All required challenge files are included and working
+* [ ] Challenge description and objective are provided
+* [ ] Challenge metadata is complete
+* [ ] Write-up/solution is included with the flag at the end
+* [ ] Setup and deployment instructions are provided, if required
+* [ ] Author information is included
+* [ ] Challenge has been tested from start to finish
+* [ ] No solution or flag is accidentally exposed in the player-facing files
+
